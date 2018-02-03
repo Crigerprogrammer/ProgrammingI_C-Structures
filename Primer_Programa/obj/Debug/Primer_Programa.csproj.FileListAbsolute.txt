@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.exe.config
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.exe
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\bin\Debug\Primer_Programa.pdb
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.exe
+C:\Users\alumno\Desktop\programas C#\Primer_Programa\Primer_Programa\obj\Debug\Primer_Programa.pdb
